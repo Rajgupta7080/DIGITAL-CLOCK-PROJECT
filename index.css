@@ -17,6 +17,12 @@ h2{
     text-align: center;
     color: white;
 }
+h3{
+    font: italic 1.2em "Fira Sans", serif;
+    color: bisque;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+    font-size: 20px;
+}
 #clock{
     display: flex;
 }
